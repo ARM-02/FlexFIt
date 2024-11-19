@@ -1,0 +1,67 @@
+Category,Exercise Name,Description,Targeted Muscles,Equipment Needed,Difficulty,Repetitions
+back_exercises,superman,Bodyweight exercise for lower back strength.,lower back,none,easy,Hold for 30 seconds per set
+back_exercises,reverse_fly,Strengthens upper back with dumbbells.,upper back,dumbbells,easy,10-12 per set
+back_exercises,bent_over_row,Targets the back and lats with a barbell.,back,barbell,medium,8-10 per set
+back_exercises,lat_pulldown,Machine exercise for lats.,lats,lat pulldown machine,medium,10-12 per set
+back_exercises,pull_up,Bodyweight exercise for back and biceps.,"back, biceps",pull-up bar,hard,8-10 per set
+back_exercises,single_arm_row,Dumbbell exercise for lats and mid-back.,back,dumbbell,hard,8-10 per arm
+bicep_exercises,bicep_curl,Strengthens biceps with dumbbells.,biceps,dumbbells,easy,12-15 per set
+bicep_exercises,reverse_curl,Targets biceps and forearms with palms-down grip.,"biceps, forearms",barbell,easy,12-15 per set
+bicep_exercises,hammer_curl,Builds biceps and forearms.,biceps,dumbbells,medium,10-12 per set
+bicep_exercises,preacher_curl,Isolated biceps exercise.,biceps,preacher bench,medium,10-12 per set
+bicep_exercises,chin_up,Bodyweight exercise targeting biceps.,"biceps, back",pull-up bar,hard,8-10 per set
+bicep_exercises,21s,"Combines full, half, and partial curls.",biceps,barbell or dumbbells,hard,21 per set
+tricep_exercises,tricep_dip_bench,Uses a bench to strengthen triceps.,triceps,bench,easy,10-12 per set
+tricep_exercises,overhead_tricep_extension,Targets triceps with overhead movement.,triceps,dumbbell,easy,10-12 per set
+tricep_exercises,kickbacks,Dumbbell exercise for triceps.,triceps,dumbbells,medium,10-12 per set
+tricep_exercises,close_grip_push_up,Push-up variation for triceps.,triceps,none,medium,10-12 per set
+tricep_exercises,skull_crushers,Overhead triceps extension with barbell.,triceps,barbell,hard,8-10 per set
+tricep_exercises,dumbbell_pullover,Strengthens triceps and lats.,"triceps, back",dumbbell,hard,10-12 per set
+shoulder_exercises,lateral_raise,Isolates deltoids with side raises.,shoulders,dumbbells,easy,10-12 per set
+shoulder_exercises,front_raise,Targets front deltoids.,shoulders,dumbbells,easy,10-12 per set
+shoulder_exercises,overhead_press,Strengthens shoulders with barbell or dumbbells.,shoulders,barbell,medium,8-10 per set
+shoulder_exercises,upright_row,Targets traps and deltoids.,"shoulders, traps",barbell,medium,10-12 per set
+shoulder_exercises,arnold_press,Targets shoulders with rotation.,shoulders,dumbbells,hard,8-10 per set
+shoulder_exercises,snatch,Full-body power move emphasizing shoulders.,"shoulders, full body",barbell,hard,8-10 per set
+leg_exercises,bodyweight_squat,Basic squat using bodyweight.,"quads, glutes",none,easy,10-12 per set
+leg_exercises,step_ups,Low-impact leg exercise.,"quads, glutes",bench or step,easy,10-12 per leg per set
+leg_exercises,goblet_squat,Squat with weight for added resistance.,"quads, glutes",dumbbell or kettlebell,medium,8-10 per set
+leg_exercises,lunges,Dynamic leg exercise.,"quads, glutes",none or dumbbells,medium,10-12 per leg per set
+leg_exercises,barbell_back_squat,Weighted squat for strength.,"quads, glutes",barbell,hard,8-10 per set
+leg_exercises,bulgarian_split_squat,Advanced single-leg squat.,"quads, glutes",bench and dumbbells,hard,10-12 per leg per set
+glute_exercises,glute_bridge,Basic glute activation exercise.,glutes,none,easy,10-12 per set
+glute_exercises,donkey_kick,Targets glutes with leg lifts.,glutes,none,easy,10-12 per leg per set
+glute_exercises,hip_thrust,Weighted glute exercise.,glutes,barbell or dumbbell,medium,10-12 per set
+glute_exercises,sumo_squat,Squat variation for glutes.,"glutes, quads",dumbbell or kettlebell,medium,10-12 per set
+glute_exercises,single_leg_hip_thrust,Advanced single-leg glute exercise.,glutes,bench,hard,10-12 per leg per set
+glute_exercises,cable_kickback,Targets glutes with resistance.,glutes,cable machine,hard,10-12 per leg per set
+hamstring_exercises,good_morning,Stretch and strengthen hamstrings.,"hamstrings, lower back",none,easy,10-12 per set
+hamstring_exercises,hamstring_curl_ball,Hamstring curls using stability ball.,hamstrings,stability ball,easy,10-12 per set
+hamstring_exercises,romanian_deadlift,Strengthens hamstrings with weight.,hamstrings,barbell or dumbbells,medium,8-10 per set
+hamstring_exercises,single_leg_deadlift,Targets hamstrings with balance challenge.,hamstrings,dumbbell,medium,10-12 per leg per set
+hamstring_exercises,nordic_hamstring_curl,Advanced hamstring strength exercise.,hamstrings,bench or partner,hard,8-10 per set
+hamstring_exercises,barbell_hip_hinge,Focuses on posterior chain strength.,"hamstrings, glutes",barbell,hard,8-10 per set
+core_exercises,plank,Core stability exercise.,core,none,easy,Hold for 30 seconds per set
+core_exercises,dead_bug,Core stabilization movement.,core,none,easy,10-12 per side per set
+core_exercises,russian_twist,Rotational exercise for core.,"core, obliques",medicine ball,medium,15-20 per side per set
+core_exercises,mountain_climbers,Dynamic core exercise.,"core, legs",none,medium,30-40 per leg per set
+core_exercises,hanging_leg_raises,Targets lower abs with hanging motion.,core,pull-up bar,hard,8-10 per set
+core_exercises,ab_wheel_rollout,Core strength and stability exercise.,core,ab wheel,hard,8-10 per set
+endurance_moves,jumping_jacks,Full-body cardio move.,full body,none,easy,30-40 seconds per set
+endurance_moves,march_in_place,Low-impact cardio.,legs,none,easy,40-60 seconds per set
+endurance_moves,high_knees,Dynamic cardio move.,"legs, core",none,medium,30-40 per leg
+endurance_moves,mountain_climbers,Core-focused cardio.,"core, legs",none,medium,30-40 per leg
+endurance_moves,burpees,High-intensity full-body move.,full body,none,hard,10-12 per set
+endurance_moves,squat_jumps,Explosive lower body move.,legs,none,hard,15-20 per set
+cardio_exercises,walking,Low-impact cardio.,legs,none,easy,5 minutes continuous
+cardio_exercises,step_touch,Low-impact side-to-side move.,legs,none,easy,5 minutes continuous
+cardio_exercises,jogging,Steady-state cardio.,legs,none,medium,5 minutes continuous
+cardio_exercises,cycling,Stationary or road cycling.,legs,bike,medium,5 minutes continuous
+cardio_exercises,sprint_intervals,High-intensity running intervals.,legs,none,hard,"5 minutes (alternate 30s sprint, 30s rest)"
+cardio_exercises,jump_rope,High-intensity cardio move.,full body,jump rope,hard,"30 seconds on, 30 seconds rest"
+stretches,child_pose,Stretches back and hips.,"lower back, hips",none,easy,Hold 30-60 seconds per set
+stretches,seated_forward_bend,Stretches hamstrings.,hamstrings,none,easy,Hold 30-60 seconds per set
+stretches,cobra_stretch,Stretches core and back.,core,none,medium,Hold 30-60 seconds per set
+stretches,pigeon_pose,Opens up hips and stretches glutes.,"hips, glutes",none,medium,Hold 30 seconds per leg
+stretches,split_stretch,Improves flexibility in legs.,"hamstrings, quads",none,hard,Hold 30-60 seconds per leg
+stretches,bridge_pose,Stretches the back and hips.,"back, hips",none,hard,Hold 30-60 seconds per set
