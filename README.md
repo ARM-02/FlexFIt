@@ -1,1 +1,1 @@
-# FlexFIt
+# FlexFit
