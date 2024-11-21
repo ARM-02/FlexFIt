@@ -22,7 +22,7 @@ This project is important for our team as we faced real-world challenges in codi
 # Installation and Setup
 To get started with FlexFit, follow these steps:
 	1.	Download the Exercise Database:
-	•	Navigate to the project main page and locate the “exercise_database.csv file”
+			- Navigate to the project main page and locate the “exercise_database.csv file”
 	•	Click on the three dots to the right of the page and download the file. Note the folder where you save it.
 	2.	Access the Code:
 	•	Go back to the main page of the repository and open the FlexFit_Final_Working_Code.ipynb file.
