@@ -62,11 +62,11 @@ The implementation of simple search algorithms and  hashtable structures was suf
 
 # Credits
 This project was collaboratively developed by:
-Andrea Restrepo - arestrepo.ieu2023@student.ie.edu
-Lucia Burmeister- lburmeister.ieu2023@student.ie.edu
-Francesca Lentini - flentini.ieu2023@student.ie.edu
-Juan Jose Jaramillo - jjaramillo.ieu2023@student.ie.edu
-Andres Cuellar - acuellar.ieu2023@student.ie.edu
+	- Andrea Restrepo - arestrepo.ieu2023@student.ie.edu
+	- Lucia Burmeister- lburmeister.ieu2023@student.ie.edu
+	- Francesca Lentini - flentini.ieu2023@student.ie.edu
+	- Juan Jose Jaramillo - jjaramillo.ieu2023@student.ie.edu
+	- Andres Cuellar - acuellar.ieu2023@student.ie.edu
 
 
 # License
