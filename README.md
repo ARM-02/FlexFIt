@@ -21,20 +21,20 @@ This project is important for our team as we faced real-world challenges in codi
 
 # Installation and Setup
 To get started with FlexFit, follow these steps:
-	1.	Download the Exercise Database:
-			- Navigate to the project main page and locate the “exercise_database.csv file”
-	•	Click on the three dots to the right of the page and download the file. Note the folder where you save it.
-	2.	Access the Code:
-	•	Go back to the main page of the repository and open the FlexFit_Final_Working_Code.ipynb file.
-	•	Click the “Open in Colab” button at the top center of the page to open the code in Google Collaborator.
-	3.	Set Up Google Collaborator:
-	•	Sign in to Google Collaborator if you haven’t already.
-	•	Run the first code cell to initialize the environment.
-	4.	Upload the Exercise Database:
-	•	Scroll down the notebook until you see the “Choose Files” option.
-	•	Click it and upload the exercise_database.csv file you downloaded in step 1.
-	5.	Start Using FlexFit:
-	•	Once the database is uploaded, the program will start. You can now explore and interact with FlexFit. Enjoy!
+1. Download the Exercise Database:
+- Navigate to the project main page and locate the “exercise_database.csv file”
+- Click on the three dots to the right of the page and download the file. Note the folder where you save it.
+2. Access the Code:
+- Go back to the main page of the repository and open the FlexFit_Final_Working_Code.ipynb file.
+- Click the “Open in Colab” button at the top center of the page to open the code in Google Collaborator.
+3. Set Up Google Collaborator:
+- Sign in to Google Collaborator if you haven’t already.
+- Run the first code cell to initialize the environment.
+4. Upload the Exercise Database:
+- Scroll down the notebook until you see the “Choose Files” option.
+- Click it and upload the exercise_database.csv file you downloaded in step 1.
+5. Start Using FlexFit:
+- Once the database is uploaded, the program will start. You can now explore and interact with FlexFit. Enjoy!
 
 * The code was developed using Python 3.10.12
 
