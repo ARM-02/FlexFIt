@@ -10,7 +10,7 @@ FlexFit is an innovative app designed to empower users by allowing them to creat
 This project is important for our team as we faced real-world challenges in coding and problem-solving. FlexFit reflects our commitment to delivering a seamless experience for fitness enthusiasts. Future updates will include enhanced features and tools to further elevate the user experience.
 
 
-Table of Contents
+# Table of Contents
 	1.	Installation and Setup
 	2.	How to Use FlexFit
 	3.	Database
@@ -19,7 +19,7 @@ Table of Contents
 	6. 	License
 
 
-Installation and Setup
+# Installation and Setup
 To get started with FlexFit, follow these steps:
 	1.	Download the Exercise Database:
 	•	Navigate to the project main page and locate the “exercise_database.csv file”
@@ -37,28 +37,34 @@ To get started with FlexFit, follow these steps:
 	•	Once the database is uploaded, the program will start. You can now explore and interact with FlexFit. Enjoy!
 
 * The code was developed using Python 3.10.12
-How to Use FlexFit
+
+  
+# How to Use FlexFit
 FlexFit allows users to:.
 	•	Create custom workout plans tailored to specific fitness goals.
 	•	Access past gym workout plans
 	•	Search for a variety of exercises based on keywords
 
-Database
+
+# Database
 The raw dataset consists of 7 different features: Category, Exercise Name, Description, Targeted Muscles, Equipment Needed, Difficulty, Repetitions. 
 Additionally, the exercises are divided into 11 different categories based on different muscles (ex.  back_exercises) or objectives (ex. cardio_exercises) . 
 
-Further Improvements
+
+# Further Improvements
 The implementation of simple search algorithms and  hashtable structures was sufficient for FlexFit’s MVP. For a small scale implementation, this was the most efficient solution. However, in case of future scalability the implementation of more advanced algorithms and data structures, like a binary search tree, must be adopted to ensure the continuity of the app’s efficiency. 
 
 
-Credits
+# Credits
 This project was collaboratively developed by:
 Andrea Restrepo - arestrepo.ieu2023@student.ie.edu
 Lucia Burmeister- lburmeister.ieu2023@student.ie.edu
 Francesca Lentini - flentini.ieu2023@student.ie.edu
 Juan Jose Jaramillo - jjaramillo.ieu2023@student.ie.edu
 Andres Cuellar - acuellar.ieu2023@student.ie.edu
-License
+
+
+# License
 This project is licensed under the GNU General Public License v3.0.
 You are free to:
 	•	Share: Copy and redistribute the material in any medium or format.
